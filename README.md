@@ -8,4 +8,4 @@ git clone https://github.com/ABDERRAOUFMERAZKA/ReactjS-EXEMPLE/
 # cd generateur de citations
 # npm install
 # npm start
-# and finally, localhost:3000 in your will be display in your browser.
+# and finally, localhost:3000 will be display in your browser.
